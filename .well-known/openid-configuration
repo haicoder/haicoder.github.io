@@ -1,10 +1,10 @@
 {
-  "issuer": "https://ab7b915c.aipa.bytedance.net",
-  "authorization_endpoint": "https://ab7b915c.aipa.bytedance.net/auth/authorize",
-  "token_endpoint": "https://ab7b915c.aipa.bytedance.net/auth/token",
-  "userinfo_endpoint": "https://ab7b915c.aipa.bytedance.net/auth/userinfo",
-  "jwks_uri": "https://ab7b915c.aipa.bytedance.net/.well-known/jwks.json",
-  "registration_endpoint": "https://ab7b915c.aipa.bytedance.net/auth/register",
+  "issuer": "https://haicoder-github-io.vercel.app",
+  "authorization_endpoint": "https://haicoder-github-io.vercel.app/auth/authorize",
+  "token_endpoint": "https://haicoder-github-io.vercel.app/auth/token",
+  "userinfo_endpoint": "https://haicoder-github-io.vercel.app/auth/userinfo",
+  "jwks_uri": "https://haicoder-github-io.vercel.app/.well-known/jwks.json",
+  "registration_endpoint": "https://haicoder-github-io.vercel.app/auth/register",
   "scopes_supported": [
     "openid",
     "profile",
@@ -138,7 +138,7 @@
     "address",
     "updated_at"
   ],
-  "service_documentation": "https://ab7b915c.aipa.bytedance.net/docs",
+  "service_documentation": "https://haicoder-github-io.vercel.app/docs",
   "claims_locales_supported": [
     "en-US",
     "zh-CN",
@@ -153,7 +153,7 @@
   "request_parameter_supported": true,
   "request_uri_parameter_supported": true,
   "require_request_uri_registration": false,
-  "op_policy_uri": "https://ab7b915c.aipa.bytedance.net/policy",
-  "op_tos_uri": "https://ab7b915c.aipa.bytedance.net/terms"
+  "op_policy_uri": "https://haicoder-github-io.vercel.app/policy",
+  "op_tos_uri": "https://haicoder-github-io.vercel.app/terms"
 }
 
